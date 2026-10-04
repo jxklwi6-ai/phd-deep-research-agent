@@ -1,0 +1,235 @@
+{
+  "format_version": "3.1",
+  "title": "",
+  "as_of_date": "YYYY-MM-DD",
+  "length_profile": "full",
+  "length_reason": "",
+  "tldr": [
+    {
+      "type": "paragraph",
+      "text": "",
+      "claim_ids": [],
+      "role": "object"
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "claim_ids": [],
+      "role": "state"
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "claim_ids": [],
+      "role": "advances"
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "claim_ids": [],
+      "role": "limits"
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "claim_ids": [],
+      "role": "reader_takeaway"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "introduction",
+      "title": "引言",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "object_value"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "principles_history"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "development_status"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "bottleneck"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "scope_roadmap"
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "overview",
+      "title": "领域发展脉络与总体研究格局",
+      "opening": {
+        "type": "paragraph",
+        "text": "",
+        "claim_ids": []
+      },
+      "subsections": [
+        {
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "",
+              "claim_ids": []
+            }
+          ]
+        },
+        {
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "",
+              "claim_ids": []
+            }
+          ]
+        }
+      ],
+      "closing": {
+        "type": "paragraph",
+        "text": "",
+        "claim_ids": []
+      }
+    },
+    {
+      "kind": "theme",
+      "title": "核心科学问题",
+      "opening": {
+        "type": "paragraph",
+        "text": "",
+        "claim_ids": []
+      },
+      "subsections": [
+        {
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "",
+              "claim_ids": []
+            }
+          ]
+        },
+        {
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "",
+              "claim_ids": []
+            }
+          ]
+        }
+      ],
+      "closing": {
+        "type": "paragraph",
+        "text": "",
+        "claim_ids": []
+      }
+    },
+    {
+      "kind": "limitations",
+      "title": "当前局限、争议与研究前沿",
+      "opening": {
+        "type": "paragraph",
+        "text": "",
+        "claim_ids": []
+      },
+      "subsections": [
+        {
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "",
+              "claim_ids": []
+            }
+          ]
+        },
+        {
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "",
+              "claim_ids": []
+            }
+          ]
+        }
+      ],
+      "closing": {
+        "type": "paragraph",
+        "text": "",
+        "claim_ids": []
+      }
+    },
+    {
+      "kind": "conclusion",
+      "title": "结论与展望",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "field_state"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "scientific_synthesis"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "key_unresolved"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "claim_ids": [],
+          "roles": [
+            "grounded_outlook"
+          ]
+        }
+      ]
+    }
+  ],
+  "limitations": [],
+  "execution_mode": "HOST_WEB_SEARCH_BROWSE"
+}

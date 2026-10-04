@@ -1,0 +1,16 @@
+interface:
+  display_name: PhD Deep Research Agent v3.1
+  short_description: Chinese review DOCX with audited literature research
+  default_prompt: Use $phd-deep-research-agent-v3-1 to research this scientific topic
+    end to end and deliver a Chinese review DOCX with TLDR, introduction, coherent
+    body chapters, conclusion, ACS-like references, a literature map and retrieval
+    log.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

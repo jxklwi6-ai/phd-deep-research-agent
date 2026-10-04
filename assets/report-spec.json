@@ -1,0 +1,59 @@
+{
+  "version": "3.1.0",
+  "default_language": "zh-CN",
+  "output": "docx",
+  "page": "letter",
+  "citations": "baseline_bracketed_numeric",
+  "reference_heading": "参考文献",
+  "reference_style": "acs_like",
+  "graphics": "none",
+  "body_chapters": [
+    3,
+    6
+  ],
+  "body_subthemes": [
+    2,
+    4
+  ],
+  "tldr_chinese_characters": [
+    400,
+    800
+  ],
+  "full_report_chinese_characters": [
+    6000,
+    12000
+  ],
+  "tables_typical": [
+    2,
+    4
+  ],
+  "length_targets_are_editorial_not_padding_quotas": true,
+  "chapter_opening_and_closing_required": true,
+  "audit_location": "companion_zip",
+  "access_method": "host_web_search_and_browse_only",
+  "manual_fulltext_queue": false,
+  "discovery_to_evidence_confirmation": false,
+  "ambiguous_scope": "document_assumptions_and_finish",
+  "saturation_novelty_threshold": 0.05,
+  "required_routes": [
+    "keyword",
+    "backward",
+    "forward",
+    "related",
+    "recent"
+  ],
+  "required_anchor_routes": [
+    "backward",
+    "forward",
+    "related",
+    "review",
+    "exact_method",
+    "competing"
+  ],
+  "default_full_length_gate": true,
+  "length_exception_profiles": [
+    "user_concise",
+    "user_custom",
+    "evidence_limited"
+  ]
+}
